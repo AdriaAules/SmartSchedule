@@ -1,0 +1,8 @@
+{
+  "name": "SmartSchedule",
+  "description": "Intelligent schedule optimizer with automated gap-detection, subcell visual division, OCR timetable scanning, and productivity metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
